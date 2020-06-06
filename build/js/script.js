@@ -1,8 +1,8 @@
 let start = false,
   t1,
   t2;
-const engine = new Audio('../audio/engine.mp3');
-const audio = new Audio('../audio/car.mp3');
+const engine = new Audio('audio/engine.mp3');
+const audio = new Audio('audio/car.mp3');
 engine.loop = true;
 engine.volume = 0.3;
 
